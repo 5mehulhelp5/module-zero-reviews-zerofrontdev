@@ -30,6 +30,8 @@ Uploaded photos are re-encoded as WebP under `pub/media/zero_reviews` with a
 thumbnail. If either file can't be written (full disk, missing folder), the
 upload is refused and no file stays behind.
 
+AI Assistant tools for this module: the bridge module `Zero_ReviewsAiAssistant` (needs Zero_AiAssistant too).
+
 What changed in each release: [CHANGELOG.md](CHANGELOG.md).
 
 ## License
